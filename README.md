@@ -3,8 +3,8 @@
 A Flutter application to get COVID-19 report in INDIA.
 you can <a href = "https://github.com/epsi95/covid-india-report/blob/master/sample_output/app-release.apk">download</a> the signed apk and install on you Android device.
 
-<h3><strong>Sample Video</strong></h3>
-<video src="https://drive.google.com/open?id=1w_ECcAj0LJmwxfribLShJbEGM5Ews2zT" width="320" height="640" controls preload></video>
+<h3><strong>Sample Gif</strong></h3>
+<img src "https://github.com/epsi95/covid-india-report/blob/master/sample_output/sample.gif" width="320" height="640">
 
 ## Getting Started
 
